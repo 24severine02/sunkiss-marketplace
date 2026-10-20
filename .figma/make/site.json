@@ -1,0 +1,10 @@
+{
+  "description": "Discover a modern e-commerce marketplace for adult intimates and hygiene essentials in Mauritius, offering secure shopping, island-wide delivery, and multiple vendor options.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
